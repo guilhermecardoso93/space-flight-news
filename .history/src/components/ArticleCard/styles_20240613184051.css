@@ -1,0 +1,16 @@
+#article {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+#article .article-infos h2 {
+  font-weight: bold;
+  font-size:  30px;
+  margin-bottom: 12px;
+}
+
+#article .article-infos h3 {
+  font-size:  20px;
+  margin-bottom: 12px;
+}

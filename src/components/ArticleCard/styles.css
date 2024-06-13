@@ -1,0 +1,28 @@
+#article {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+#article img {
+  width: 15rem;
+  border-radius: 10px;
+}
+
+#article .article-infos h2 {
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 12px;
+}
+
+#article .article-infos h3 {
+  font-size: 20px;
+  color: #8695a4;
+  margin-bottom: 1rem;
+}
+
+#article .article-infos p {
+  width: 80%;
+  text-align: left;
+}

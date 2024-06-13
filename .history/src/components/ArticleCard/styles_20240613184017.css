@@ -1,0 +1,10 @@
+#article {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+#article .article-infos h2 {
+  font-weight: bold;
+  font-size:  30px;
+}

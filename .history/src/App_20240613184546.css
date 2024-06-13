@@ -5,10 +5,13 @@
 }
 
 body {
+  display: flex;
   background-color: #222222;
   color: #fff;
   font-family: Roboto, sans-serif;
   align-items: center;
+  width: 100%;
+  flex-direction: column;
 }
 
 a {

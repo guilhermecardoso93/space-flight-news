@@ -9,6 +9,7 @@ body {
   color: #fff;
   font-family: Roboto, sans-serif;
   align-items: center;
+  flex-direction: column;
 }
 
 a {
